@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# PC_SEMANA6
+## Descripción
+Desarrolla las guias de la semana 6 del curso pruebas de calidad
+## Integrantes 
+| Apellidos y nombres | 
+|---------------------|
+|Chavez Apaza, Marcos Alberto |      
+|Reyes Mendoza Harol Jesus |      
+|Villaverde Pacheco, Fabiola Karina  |
+
+## Instrucciones
+| Guias de la semana 6 | 
+|---------------------|
+| 1. L13 Pruebas UX de red social |
+| 2. L14 Controladores y grupos de rutas |
+| 3. L15 Vistas y Blade |
+
+>>>>>>> e450697fc6e9357eeb84c7971d4dae18ea078b15
