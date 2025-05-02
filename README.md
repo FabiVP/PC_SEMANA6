@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -81,7 +81,12 @@ Desarrolla las guias de la semana 6 del curso pruebas de calidad
 |---------------------|
 ### 1. L13 Pruebas UX de red social 
 |Este repositorio contiene el código y los resultados correspondientes al **Laboratorio 13**, enfocado en las pruebas de usabilidad (UX) de la red social.|
-| 2. L14 Controladores y grupos de rutas |
-| 3. L15 Vistas y Blade |
+|---------------------|
+###  2. L14 Controladores y grupos de rutas 
+|En esta sección se trabajó la creación de controladores para organizar la lógica de la aplicación y el uso de grupos de rutas en Laravel, permitiendo estructurar y proteger rutas de forma más eficiente mediante middlewares y prefijos.|
+|---------------------|
+###  3. L15 Vistas y Blade 
+|En esta sección se implementaron vistas usando Blade, el motor de plantillas de Laravel, facilitando la creación de páginas web dinámicas y reutilizables, además de integrar fácilmente variables, ciclos y condiciones en el HTML.|
+|---------------------|
 
->>>>>>> e450697fc6e9357eeb84c7971d4dae18ea078b15
+
